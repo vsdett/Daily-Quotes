@@ -1,0 +1,1 @@
+ C:\\Users\\arvin\\OneDrive\\Desktop\\Flutter-Motivational-Quotes-App-main\\Flutter-Motivational-Quotes-App-main\\.dart_tool\\flutter_build\\de3043c89c951dcb23583a7fca17fed2\\native_assets.yaml: 
